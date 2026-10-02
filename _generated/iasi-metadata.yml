@@ -69,6 +69,15 @@ book:
         - "chapters/60-part-VI-composition/40-validations.qmd"
         - "chapters/60-part-VI-composition/50-automations.qmd"
         - "chapters/60-part-VI-composition/60-adapters.qmd"
+    - part: "chapters/70-part-VII-beyond/index.qmd"
+      chapters:
+        - "chapters/70-part-VII-beyond/10-zero-code.qmd"
+        - "chapters/70-part-VII-beyond/20-asisitda-aumentada.qmd"
+        - "chapters/70-part-VII-beyond/21-ingeniero.qmd"
+        - "chapters/70-part-VII-beyond/22-la-solucion.qmd"
+        - "chapters/70-part-VII-beyond/23-is-miembro.qmd"
+        - "chapters/70-part-VII-beyond/24-amplificando-errores.qmd"
+        - "chapters/70-part-VII-beyond/25-pepe-no-sabe-maven.qmd"
     - part: "chapters/430-part-II/index.qmd"
       chapters:
         - "chapters/430-part-II/02-engineering/index.qmd"
